@@ -1,0 +1,32 @@
+.map-search-title-container {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+    .map-search-title {
+        padding-left: 35px;
+        
+        margin: auto;
+    }
+}
+
+.map-container {
+    display: flex; 
+    flex-flow: row wrap;
+    width: 90%;
+    height: 100%;
+    margin: auto;
+
+    .first {
+        margin: auto;
+    }
+
+    .second {
+        border: 2px solid #000;
+        border-radius: 5px;
+    }
+}
+  
+.map-container-item {
+    width: 48%;
+    height: 90vh;
+}

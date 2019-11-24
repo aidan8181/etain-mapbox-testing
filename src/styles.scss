@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.marker {
+    background-image: url('assets/img/mapbox-icon.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
